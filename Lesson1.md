@@ -5,10 +5,8 @@
 
 ## Welcome! 
 
-Make sure your GPU environment is set up and you can run Jupyter Notebook
-
+To run Jupyter Notebook see
 [00_notebook_tutorial.ipynb](https://github.com/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb)
-
 
 Four shortcuts:
 
@@ -20,20 +18,15 @@ Four shortcuts:
 
 - <kbd>0</kbd>+<kbd>0</kbd>: Restart Kernel
 
-  
-
 
 [[2:45](https://youtu.be/BWWm4AzsdLk?t=165)] 
 
-Jupyter Notebook is a really interesting device for data scientists because it lets you run interactive experiments and give you not just a static piece of information but something you can interactively experiment with.
-
-How to use notebooks and the materials well based on the last three years of experience:
-
-1. Just watch a lesson end to end. 
+Jupyter Notebook lets you run interactive experiments. 
+Recommended way to use notebooks and the materials: 
+1. Watch a lesson end to end. 
    - Don't try to follow along because it's not really designed to go the speed where you can follow along. It's designed to be something where you just take in the information, you get a general sense of all the pieces, how it all fits together.
    - Then you can go back and go through it more slowly pausing the video, trying things out, making sure that you can do the things that I'm doing and you can try and extend them to do things in your own way.
    - Don't try and stop and understand everything the first time. 
-
 
 
 ### You can do world-class practitioner level deep learning [[4:31](https://youtu.be/BWWm4AzsdLk?t=271)]
